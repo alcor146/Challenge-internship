@@ -6,7 +6,7 @@ Este suficient sa returnez numarul mai mic dintre valorile comparate, dar trebui
 space complexity : O(1)
 time complexity : O(1)
 
-La problema 2 cred ca puteam sa fac o simpla sortare, nu am incercat, dar e suficient sa cautam in dreapta lui cu cate numere e mai mare fiecare valoare - 2( care ar fi pozitia minima dupa maxim 2 schimbari).
+La problema 2 cred ca e suficient sa cautam in dreapta lui cu cate numere e mai mare fiecare valoare - 2( care ar fi pozitia minima dupa maxim 2 schimbari).
 
 space complexity : O(1)
 time complexity : O(nlogn)
